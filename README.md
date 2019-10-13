@@ -1,0 +1,2 @@
+# Introduction
+Keybind is a simple command line tool that allows the user to practice reacting to a prompt for a random key press. The idea is to help people practice quickly and accurately pressing unfamiliar keybindings.
